@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Employee Management System
 
 A desktop-based Employee Management System developed using Python Tkinter and SQLite.
@@ -108,3 +109,6 @@ Run:
 
 ```powershell
 git status
+=======
+# Employee_Management_System
+>>>>>>> 7e6f2a0c01bf4f91d89d911e6311ec9eb65902e8
